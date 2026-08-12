@@ -1,0 +1,38 @@
+/* Estilos generales para centrar el contenido */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5; /* Un gris claro muy suave */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    color: #333;
+}
+
+/* Estilo para la imagen de perfil */
+img {
+    border-radius: 50%; /* Hace la foto circular */
+    border: 5px solid #ffffff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Estilo para el título */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 1.1rem;
+    color: #555;
+    text-align: center;
+}
+
+/* Resaltado de la carrera */
+strong {
+    color: #3498db; /* Un azul profesional */
+}

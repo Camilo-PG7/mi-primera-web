@@ -1,7 +1,7 @@
 /* Estilos generales para centrar el contenido */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f2f5; /* Un gris claro muy suave */
+    background-color: #f0f2f5;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -13,7 +13,7 @@ body {
 
 /* Estilo para la imagen de perfil */
 img {
-    border-radius: 50%; /* Hace la foto circular */
+    border-radius: 50%;
     border: 5px solid #ffffff;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     margin-bottom: 20px;
@@ -34,5 +34,5 @@ p {
 
 /* Resaltado de la carrera */
 strong {
-    color: #3498db; /* Un azul profesional */
+    color: #3498db;
 }

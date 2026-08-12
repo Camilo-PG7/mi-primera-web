@@ -10,6 +10,7 @@
 ## 🌐 Enlaces del Proyecto
 * **URL de la aplicación en producción (Vercel):** [https://mi-primera-web-zeta-nine.vercel.app](https://mi-primera-web-zeta-nine.vercel.app)
 * **Repositorio en GitHub:** [https://github.com/Camilo-PG7/mi-primera-web](https://github.com/Camilo-PG7/mi-primera-web)
+* **Perfil de LinkedIn:** [Nestor Peña en LinkedIn](https://www.linkedin.com/in/nestor-peña-779547403)
 
 ---
 
@@ -23,7 +24,7 @@
 ## 📸 Evidencias de Despliegue
 
 ### 1. Vista de la Página Web en Producción
-![Vista de la Web](https://mi-primera-web-zeta-nine.vercel.app/og-image.png) *(Puedes adjuntar aquí una captura tomada desde tu navegador)*
+![Página Web Desplegada](pagina_despl.png)
 
 ### 2. Panel de Despliegue en Vercel
-*(Adjunta aquí una captura de pantalla de tu dashboard de Vercel mostrando el estado "Ready" / Desplegado)*
+![Dashboard de Vercel](vercel_despl.png)
